@@ -4,7 +4,7 @@ recepcionistas do estabelecimento. No dashboard de apresentação, por interméd
 
 ### Documentação
 
-Dicionário de dados consta no documento "Visão Produto.pdf"
+Dicionário de dados, explicação dos tratamentos realizados e registro dos paineis elaborados no Power BI constam no documento "Visão Produto.pdf"
 
 #### Modelagem Fato Atendimentos
 
