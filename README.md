@@ -8,14 +8,16 @@ Dicionário de dados consta no documento "Visão Produto.pdf"
 
 #### Modelagem Fato Atendimentos
 
-![Modelo Dimensional Fato Atendimentos](Modelagem/dw_salao_fato_atendimentos.png)
+<img src="Modelagem/dw_salao_fato_atendimentos.png" alt="Descrição" width="300">
 
 #### Modelagem Fato Vendas
 
-![Modelo Dimensional Fato Vendas](Modelagem/dw_salao_fato_vendas.png)
+<img src="Modelagem/dw_salao_fato_vendas.png" alt="Descrição" width="300">
 
 
 #### ETL
+
+<img src="ETL/IMAGENS_JOBS/CARGA_DW.png" alt="Descrição" width="300">
 
 
 
